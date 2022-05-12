@@ -1,4 +1,4 @@
-name: s3-depl
+name: Pipeline FrontEnd / App React - S3 
 
 on:
   push:
