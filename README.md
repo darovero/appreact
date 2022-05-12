@@ -1,24 +1,37 @@
-# A simple counter-App using [React.js](https://reactjs.org)
+# s3-github-actions
 
-> **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
+## Getting Started
 
-**This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. .**
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Live URL :-
+## Installing
 
-> [Counter App](https://obscure-waters-60500.herokuapp.com)
+Clone Repository
 
-**OR your can do the following to run in your local machine**
+```bash
+$ git clone https://github.com/nobioma1/s3-github-actions.git
+```
 
-## Scripts
+Change directory in project folder
 
-Install node modules
+```bash
+$ cd s3-github-actions
+```
 
-#### `npm install`
+Install Node Modules
 
-In the project directory, you can run:
+```bash 
+$ yarn install
+```
 
-#### `npm start`
+Start app
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash 
+$ yarn start
+```
+
+Build
+
+```bash 
+$ yarn build
+```
