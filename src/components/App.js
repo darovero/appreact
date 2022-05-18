@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <div className="app">
       <img src={hooray} alt="celebrate" />
-      <h1>Welcome to my Website May App from an AWS S3!</h1>
+      <h1>Welcome to my Website App from an AWS S3 - Prueba 01!</h1>
     </div>
   );
 };
